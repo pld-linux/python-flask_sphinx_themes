@@ -7,7 +7,7 @@ Summary:	Sphinx themes for Flask and related projects
 Summary(pl.UTF-8):	Motywy Sphinksa dla Flaska i powiązanych projektów
 Name:		python-flask_sphinx_themes
 Version:	1.0.2
-Release:	5
+Release:	6
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/flask-sphinx-themes/
